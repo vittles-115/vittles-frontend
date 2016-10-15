@@ -61,3 +61,9 @@ img{
     text-align: center;
 }
 
+/* Write Review Page css */
+
+.star-rating{
+    text-align: center;
+    font-size: 20px;
+}
